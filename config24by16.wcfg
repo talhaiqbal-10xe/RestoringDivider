@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/user3/Downloads/Documents/divider_custom/divider_tb24by16_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="divider_tb24by16" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/divider_tb24by16/q" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">q[7:0]</obj_property>
+      <obj_property name="ObjectShortName">q[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/divider_tb24by16/uut/r" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">r[15:0]</obj_property>
+      <obj_property name="ObjectShortName">r[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/divider_tb24by16/t" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">t</obj_property>
+      <obj_property name="ObjectShortName">t</obj_property>
+   </wvobject>
+   <wvobject fp_name="/divider_tb24by16/dvdnd" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dvdnd[23:0]</obj_property>
+      <obj_property name="ObjectShortName">dvdnd[23:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/divider_tb24by16/dvisor" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dvisor[15:0]</obj_property>
+      <obj_property name="ObjectShortName">dvisor[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/divider_tb24by16/gradh1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">gradh1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">gradh1[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/divider_tb24by16/gradv1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">gradv1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">gradv1[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/divider_tb24by16/gradh" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">gradh[15:0]</obj_property>
+      <obj_property name="ObjectShortName">gradh[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/divider_tb24by16/gradv" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">gradv[15:0]</obj_property>
+      <obj_property name="ObjectShortName">gradv[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/divider_tb24by16/outfile0" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">outfile0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">outfile0[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
